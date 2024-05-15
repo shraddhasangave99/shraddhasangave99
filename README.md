@@ -11,12 +11,7 @@
 📫 How to reach me [Linkedin](https://www.linkedin.com/in/shraddhasangave/)
 
 <h4>Languages and Tools:</h4> 
-<p><img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/9c45601c-f00c-4214-a922-cbb612c1161c"></p>
-<p><img width="30" src=""></p>
-<p><img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/e4449cf5-6276-48ec-b90b-97eb478188d8"
-></p>
-<p><img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/7680377c-f7d8-4588-8d80-c265be13acbe"></p>
-<p><img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/b93ad2db-ea3b-4ee6-b5ca-62403dcb952a"></p>
+<p><img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/9c45601c-f00c-4214-a922-cbb612c1161c">   <img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/56e0b5fe-72fe-4d3c-a6ad-57b1c433595d">   <img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/7680377c-f7d8-4588-8d80-c265be13acbe">   <img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/e4449cf5-6276-48ec-b90b-97eb478188d8">   <img width="30" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/b93ad2db-ea3b-4ee6-b5ca-62403dcb952a"></p>
 
 
 
