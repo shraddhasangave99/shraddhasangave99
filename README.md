@@ -1,5 +1,7 @@
-![1690880909088](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/9406bf5e-7283-48d5-beb3-4da00a31d25d)
-
+<p align="center">![1690880909088](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/9406bf5e-7283-48d5-beb3-4da00a31d25d) </p>
+<p align="center"
+    <img width="1000" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/9406bf5e-7283-48d5-beb3-4da00a31d25d" alt="Material Bread logo">
+</p>
  <h1 align="center">👋 Hi, I’m Shraddha Sangave</h1>
 
 <h3 align="center">Data Analyst</h3>
